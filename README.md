@@ -1,0 +1,2 @@
+# Customer-Segmentation---Clustering-Analysis
+In this jupyte notebook, I have created different clusters to segregate groups of customers with more or less similar income and customer spend Score. I did KMeans and Hirarcial clustering for the same and found the optimal number of segregations in the customer base.Built a decision tree model to evaluate the clusters formed and got an accuracy of 90% for the test/unseen data .Here my Labels from clusterig techniques was treated as dependent varible.
